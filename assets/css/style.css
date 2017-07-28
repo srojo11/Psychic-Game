@@ -1,0 +1,53 @@
+body {
+
+	background-image: url("http://www.wopc.co.uk/images/subjects/tarot/rider-waite/pam-c.jpg");
+	background-size: 350px 300px;
+	/* background-size: 700px 600px;*/
+}
+#container{
+	width: 100%;
+	margin: 150px auto;
+	background-image: url("tarot.jpg");
+	/*border-top: 5px solid  rgba(16,16,16,0.8); ;*/
+	/*border-bottom: 5px solid  rgba(16,16,16,0.8)*/
+
+
+
+}
+
+
+#header  {
+
+	font-family: 'Caudex', serif;	
+	font-size: 5em;
+	padding: 30px 30px 15px 30px;
+	width: 75%;
+	margin: 0 auto;
+	border-bottom: .5px solid  rgba(16,16,16,0.8);
+	text-align: center;
+	color:  rgba(16,16,16,0.8);
+	letter-spacing: .1em; 
+	/*background-color: rgba(255,255,255,0.7);*/
+
+
+}
+
+#content{
+	overflow: auto;
+	width: 100%;
+	font-family: 'Caudex', serif;	font-size: 5em;
+	font-size: 1em;
+	margin: 0 auto;
+	margin-top: 0px;
+	padding: 30px;
+	text-align: center;
+	color:  rgba(16,16,16,0.8);
+	letter-spacing: .1em; 
+ 
+
+
+	/*background-color: rgba(255,255,255,0.7);*/
+}
+
+
+
